@@ -1,1 +1,1 @@
-# SMIT-Hackathon
+# hackathon
